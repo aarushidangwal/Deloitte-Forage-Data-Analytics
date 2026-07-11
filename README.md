@@ -7,8 +7,7 @@ This repository contains my work from the **Deloitte Data Analytics Job Simulati
 ## Tasks
 
 ### Task 1: Data Visualization with Tableau
-**Folder:** [[`task1-tableau/`](./task1-tableau)](https://github.com/aarushidangwal/Deloitte-Forage-Data-Analytics/tree/b4a0f72ccb61c5dccff205ffea61222033a7d27b/Task1(tableau))
-
+**Folder:** https://github.com/aarushidangwal/Deloitte-Forage-Data-Analytics/tree/f27918370337a292e0259d9b5d55603e348c42c9/Task1(tableau)
 ### Task 2: Forensic Technology — Pay Equality Analysis
 **Folder:** [Task2(Excel)](https://github.com/aarushidangwal/Deloitte-Forage-Data-Analytics/tree/87e0f85334f8fa8fa49ef17c5788e361019de673/Task2(Excel))
 
