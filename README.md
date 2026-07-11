@@ -10,7 +10,7 @@ This repository contains my work from the **Deloitte Data Analytics Job Simulati
 **Folder:** [`task1-tableau/`](./task1-tableau)
 
 ### Task 2: Forensic Technology — Pay Equality Analysis
-**Folder:** [`task2-excel/`](./task2-excel)
+**Folder:** Task2(Excel)
 
 ## Skills Practiced
 - Data visualization (Tableau)
